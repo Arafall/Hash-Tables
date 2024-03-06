@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d75bf308-a701-4cf6-9cd2-87f0745d2a76" name="Changes" comment="">
+    <list default="true" id="d75bf308-a701-4cf6-9cd2-87f0745d2a76" name="Changes" comment="Created HashTable class to allow an array of key value pairs to be mutable and altered.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/otc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/otc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/otc/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/otc/HashTable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +68,17 @@
       <updated>1709591852940</updated>
       <workItem from="1709591857194" duration="1274000" />
       <workItem from="1709605923342" duration="15133000" />
-      <workItem from="1709690194993" duration="6648000" />
+      <workItem from="1709690194993" duration="6789000" />
     </task>
+    <task id="LOCAL-00001" summary="Created HashTable class to allow an array of key value pairs to be mutable and altered.">
+      <option name="closed" value="true" />
+      <created>1709699963902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709699963902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +94,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created HashTable class to allow an array of key value pairs to be mutable and altered." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created HashTable class to allow an array of key value pairs to be mutable and altered." />
   </component>
 </project>

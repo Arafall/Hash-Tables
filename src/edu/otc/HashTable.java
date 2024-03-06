@@ -127,11 +127,9 @@ public class HashTable {
         // Loop through hash array and add each piece of data about each pair (Pair number, key, and value).
         for (int i = 0; i < hashArray.length; i++) {
             var hash = hashArray[i];
-            //if (hash[0] != null) {
-                tableContents.append("Hash #").append(i + 1).append(System.lineSeparator());
-                tableContents.append("Key:   ").append(hash[0]).append("  ");
-                tableContents.append("Value: ").append(hash[1]).append(System.lineSeparator());
-            //}
+            tableContents.append("Hash #").append(i + 1).append(System.lineSeparator());
+            tableContents.append("Key:   ").append(hash[0]).append("  ");
+            tableContents.append("Value: ").append(hash[1]).append(System.lineSeparator());
         }
         System.out.println(tableContents);
         return tableContents.toString();
